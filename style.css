@@ -1,0 +1,12 @@
+body
+    {
+        background-size:cover;
+        background-position: center;
+    }
+canvas{
+    animation-name:example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 40px;
+    border-color: beige;
+    }
